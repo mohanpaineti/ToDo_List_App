@@ -10,6 +10,32 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
 </a>
 
+## How to Use 
+
+**Step 1:**
+
+Download or clone this repo by using the link below:
+
+```
+https://github.com/mohanpaineti/ToDo_List_App.git
+```
+
+**Step 2:**
+
+Go to project root and execute the following command in console to get the required dependencies: 
+
+```
+flutter pub get 
+```
+
+**Step 3:**
+
+To run this project, execute the following command:
+
+```
+flutter run
+```
+
 ## Screenshots
 
 <h5>App Home</h5>
