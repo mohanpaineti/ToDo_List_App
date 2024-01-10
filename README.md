@@ -48,7 +48,7 @@ flutter run
 <img src="Screenshots/4.jpg" alt="Task in progress" width="200px">
 <h5>When Task is completed</h5>
 <img src="Screenshots/5.jpg" alt="Task Completed" width="200px">
-<h5>When Task is deleted</h5>
+<h5>When we swipe the task left or right the task will be deleted</h5>
 <img src="Screenshots/6.jpg" alt="Task Deleted" width="200px">
 
 
